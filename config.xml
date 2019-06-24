@@ -3,9 +3,9 @@
 <!-- Configuration Start: Please customize following configuration -->
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="mppdev.onecertify.org" version="1.0.0">
     
-    <name>mpp線上學習平台</name>
-    <description>全域科技線上學習平台</description>
-    <author href="http://mppdev.onecertify.org" email="test@gmail.com">全域科技線上學習平台</author>
+    <name>拖車驗車服務平台</name>
+    <description>拖車驗車服務平台</description>
+    <author href="">拖車驗車服務平台</author>
     <!-- Configuration End -->
   
     <!--  allows access to any external resource. -->
