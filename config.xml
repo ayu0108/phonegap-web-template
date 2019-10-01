@@ -3,9 +3,9 @@
 <!-- Configuration Start: Please customize following configuration -->
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="http://ajcode.tk/guideAppDemo/home/index/zh_tw" version="1.0.0">
     
-    <name>導覽介紹</name>
-    <description>導覽介紹</description>
-    <author href="">樹德科技大學 L0732實驗室</author>
+    <name>屏東導覽介紹</name>
+    <description>屏東導覽介紹</description>
+    <author href="">L0732實驗室</author>
     <!-- Configuration End -->
   
     <!--  allows access to any external resource. -->
