@@ -15,6 +15,7 @@
     <content src="index.html"/>
     
     <!--     <icon src="icon.png"/> -->
+    <icon src="icons/icon512.png">
     <icon>
         <image76x76>icons/icon76.png</image76x76>
         <image120x120>icons/icon120.png</image120x120>
