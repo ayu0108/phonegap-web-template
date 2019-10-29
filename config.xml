@@ -13,7 +13,11 @@
     <allow-navigation href="*" />
   
     <content src="index.html"/>
+    
     <icon src="icon.png"/>
+    <icon>
+        <image120x120>icons/icon120.png</image120x120>
+    </icon>
   
     <!-- https://build.phonegap.com/current-support -->
     <preference name="phonegap-version" value="cli-7.0.1" />
