@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" version="1.0.2">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" version="1.0.3">
     
     <name>台泰美食觀光景點</name>
     <description>台泰美食觀光景點</description>
@@ -20,7 +20,7 @@
     </icon>
   
     <!-- https://build.phonegap.com/current-support -->
-    <preference name="phonegap-version" value="cli-7.0.1" />
+    <preference name="phonegap-version" value="cli-6.5.0" />
     
     <!-- 防止太多權限 -->
     <preference name="permissions" value="none" />
