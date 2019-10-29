@@ -16,9 +16,10 @@
     
     <!--     <icon src="icon.png"/> -->
     <icon>
-        <image120x120>icons/icon76.png</image120x120>
+        <image76x76>icons/icon76.png</image76x76>
         <image120x120>icons/icon120.png</image120x120>
-        <image120x120>icons/icon152.png</image120x120>
+        <image152x152>icons/icon152.png</image152x152>
+        <image1024x1024>icons/icon1024.png</image1024x1024>
     </icon>
   
     <!-- https://build.phonegap.com/current-support -->
