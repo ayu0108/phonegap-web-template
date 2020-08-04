@@ -15,4 +15,3 @@ A website template for Adobe PhoneGap Build
 
 - Adobe PhoneGap Build: https://build.phonegap.com/
 - KeyStore for Android: http://blog.pulipuli.info/2015/07/phonegap-buildandroid-apk-how-to-build.html
--  
